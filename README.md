@@ -27,6 +27,8 @@ Code for full Spring Security + JPA + MySQL tutorial:  https://youtu.be/TNt3GHua
 
 ###### Override `protected void configure(AuthenticationManagerBuilder auth) throws Exception` for the Authentication and 
 
+###### Create a entity class and also create Repository interface extends from JpaRepository. 
+
 ###### Override `protected void configure(HttpSecurity http) throws Exception` for the Authorization
 
 ###### call `auth.userDetailsService(userDetailsService);` to check a user is a valid user or not.
@@ -38,6 +40,10 @@ Code for full Spring Security + JPA + MySQL tutorial:  https://youtu.be/TNt3GHua
 ![image](https://user-images.githubusercontent.com/80092355/124269609-b7ab6480-db58-11eb-85be-98e28339dde9.png)
 
 
+###### Call  findByUserName(String userName) to check the credentials and it returns a Optional.
+
+
+###### 
 ## Flow of the Project
 
 ###### 
