@@ -33,6 +33,11 @@ Code for full Spring Security + JPA + MySQL tutorial:  https://youtu.be/TNt3GHua
 
 ###### Create a class extends from `userDetailsService` and override  `public UserDetails loadUserByUsername(String userName)` method.
 
+
+
+![image](https://user-images.githubusercontent.com/80092355/124269609-b7ab6480-db58-11eb-85be-98e28339dde9.png)
+
+
 ## Flow of the Project
 
 ###### 
