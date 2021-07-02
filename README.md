@@ -42,7 +42,11 @@ Code for full Spring Security + JPA + MySQL tutorial:  https://youtu.be/TNt3GHua
 
 ###### Call  findByUserName(String userName) to check the credentials and it returns a Optional.
 
+## Authorization(Role Base Access)
 
+![image](https://user-images.githubusercontent.com/80092355/124270408-cba39600-db59-11eb-9cf2-76fccb1fa3f7.png)
+
+###### Autorize a user to a particular page according to his role. 
 ###### 
 ## Flow of the Project
 
