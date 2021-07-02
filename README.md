@@ -2,17 +2,17 @@
 Code for full Spring Security + JPA + MySQL tutorial:  https://youtu.be/TNt3GHuayXs
 
 
-#Spring Security
+# Spring Security
 
 ###### Spring Security provides security services for the Spring IO Platform. Spring Security 5.0 requires Spring 5.0 as a minimum and also requires Java 8.
 
 ###### For a detailed list of features and access to the latest release, please visit Spring projects.
 
-#Downloading Artifacts
+# Downloading Artifacts
 
 ###### See [Getting Spring Security](https://docs.spring.io/spring-security/site/docs/current/reference/html5/#getting) for how to obtain Spring Security.
 
-#Procedure
+# Procedure
 
 ###### Create a Spring starter project.
 
