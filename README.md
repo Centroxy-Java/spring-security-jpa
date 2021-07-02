@@ -31,7 +31,7 @@ Code for full Spring Security + JPA + MySQL tutorial:  https://youtu.be/TNt3GHua
 
 ###### call `auth.userDetailsService(userDetailsService);` to check a user is a valid user or not.
 
-###### Create a class extends from `userDetailsService` and override  `public UserDetails loadUserByUsername(String userName) throws UsernameNotFoundException` method.
+###### Create a class extends from `userDetailsService` and override  `public UserDetails loadUserByUsername(String userName)` method.
 
 ## Flow of the Project
 
