@@ -49,5 +49,17 @@ Biswajit Pradhan
 
 ![image](https://user-images.githubusercontent.com/80092355/124270408-cba39600-db59-11eb-9cf2-76fccb1fa3f7.png)
 
-###### Autorize a user to a particular page according to his role. 
+###### Authorize a user to a particular page according to his role. 
+
+# Development server
+
+Click on `Run as spring boot app` . Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
+
+
+# Build and Deploy the Project
+
+ - mvn clean install
+
+This is a Spring Boot project, so you can deploy it by simply using the main class: `Application.java`
+
 
